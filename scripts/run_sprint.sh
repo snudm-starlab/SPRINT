@@ -15,7 +15,7 @@ LOG='log_file'
 PRUNED_MODEL_FILE='tuned_weights.pkl'
 
 # Evaluation
-EVAL_STEPS='14'
+EVAL_STEPS='999'
 EVAL_SPEEDUPS=''
 EVAL_ALL=False
 
