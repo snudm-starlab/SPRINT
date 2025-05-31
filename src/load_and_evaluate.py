@@ -112,12 +112,5 @@ def method(
                     )
     logger.info(f"* Latency: {elf_latency:.2f}ms")
 
-    #### TODO: remove
-    os.makedirs(result_folder, exist_ok=True)
-    result_file_path = os.path.join(result_folder, result_file)
-    result_str = f'{model_name},{len(pruned_sublayers)},{elf_latency},{_str}\n'
-    with open(result_file_path, 'a') as f:
-        f.write(result_str)
-
 if __name__ == "__main__":
     fire.Fire(method)
