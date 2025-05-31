@@ -142,7 +142,7 @@ bash scripts/evaluate_70B.sh
 
 ## Reference
 If you find SPRINT useful or relevant to your research, please kindly cite our paper:
-```
+```bibtex
 @inproceedings{park2025sprint,
   title={Accurate Sublayer Pruning for Large Language Models by Exploiting Latency and Tunability Information},
   author={Park, Seungcheol and Lee, Sojin and Kim, Jongjin and Jo, Hyunjik and Kang, U},
