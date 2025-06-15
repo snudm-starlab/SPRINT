@@ -151,7 +151,7 @@ If you find SPRINT useful or relevant to your research, please kindly cite our p
 ```bibtex
 @inproceedings{park2025sprint,
   title={Accurate Sublayer Pruning for Large Language Models by Exploiting Latency and Tunability Information},
-  author={Park, Seungcheol and Lee, Sojin and Kim, Jongjin and Jo, Hyunjik and Kang, U},
+  author={Park, Seungcheol and Lee, Sojin and Kim, Jongjin and Lee, Jinsik and Jo, Hyunjik and Kang, U},
   booktitle={The Thirty-Third International Joint Conference on
             Artificial Intelligence},
   year={2025}
